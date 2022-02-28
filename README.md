@@ -1,5 +1,5 @@
 
-# Simple example using zlib with AutotoolsToolchain, AutotoolsDeps and PkgConfigDeps
+# Simple example using Conan zlib package with AutotoolsToolchain, AutotoolsDeps and PkgConfigDeps
 
 ```
 autoreconf --install
