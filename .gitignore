@@ -18,3 +18,5 @@ Makefile
 stamp-h1
 src/Makefile
 src/.deps/main.Po
+src/helloworld
+src/main.o
