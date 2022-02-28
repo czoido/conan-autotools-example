@@ -1,0 +1,26 @@
+rm aclocal.m4
+rm src/Makefile.in
+rm compile
+rm config.h.in
+rm configure
+rm install-sh
+rm Makefile.in
+rm missing
+rm autom4te.cache/output.0
+rm autom4te.cache/output.1
+rm autom4te.cache/requests
+rm autom4te.cache/traces.0
+rm autom4te.cache/traces.1
+rm depcomp
+rm config.h
+rm config.log
+rm config.status
+rm Makefile
+rm stamp-h1
+rm src/Makefile
+rm src/.deps/main.Po
+rm deactivate_conanautotoolsdeps.sh
+rm -rf conan-env
+rm deactivate_conanautotoolstoolchain.sh
+rm src/helloworld
+rm src/main.o
