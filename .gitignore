@@ -20,3 +20,6 @@ src/Makefile
 src/.deps/main.Po
 src/helloworld
 src/main.o
+deactivate_conanautotoolsdeps.sh
+conan-env/*
+deactivate_conanautotoolstoolchain.sh
