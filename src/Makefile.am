@@ -1,2 +1,2 @@
-SUBDIRS = src
-dist_doc_DATA = README
+bin_PROGRAMS = helloworld
+helloworld_SOURCES = main.c
